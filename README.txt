@@ -1,1 +1,1 @@
-kshec.co.kr
+kshec.co.kr 설명
